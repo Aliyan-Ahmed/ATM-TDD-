@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "627a5999-7f72-47d1-bba2-a7f355c473e5": {
+      "ProjectGuid": "627a5999-7f72-47d1-bba2-a7f355c473e5",
+      "DisplayName": "ATMTest",
+      "ColorIndex": 0
+    },
+    "09cd86d9-0c30-43f8-8928-9898d633db1e": {
+      "ProjectGuid": "09cd86d9-0c30-43f8-8928-9898d633db1e",
+      "DisplayName": "ATMUnitTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

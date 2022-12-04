@@ -1,0 +1,6 @@
+D:\Github\Semister-6-Software-Engineering-Maju\Test Driven Development (AM)\work\ATMTest\ATMTest\bin\Debug\ATMTest.dll
+D:\Github\Semister-6-Software-Engineering-Maju\Test Driven Development (AM)\work\ATMTest\ATMTest\bin\Debug\ATMTest.pdb
+D:\Github\Semister-6-Software-Engineering-Maju\Test Driven Development (AM)\work\ATMTest\ATMTest\obj\Debug\ATMTest.csproj.AssemblyReference.cache
+D:\Github\Semister-6-Software-Engineering-Maju\Test Driven Development (AM)\work\ATMTest\ATMTest\obj\Debug\ATMTest.csproj.CoreCompileInputs.cache
+D:\Github\Semister-6-Software-Engineering-Maju\Test Driven Development (AM)\work\ATMTest\ATMTest\obj\Debug\ATMTest.dll
+D:\Github\Semister-6-Software-Engineering-Maju\Test Driven Development (AM)\work\ATMTest\ATMTest\obj\Debug\ATMTest.pdb
